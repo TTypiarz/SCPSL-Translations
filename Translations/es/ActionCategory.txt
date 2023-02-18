@@ -1,7 +1,7 @@
-Juegabilidad
+Jugabilidad
 Armas
-Movimentos
-Asignación de teclas
+Movimento
+Atajos de teclas
 Comunicación
 Sistema
 No vinculable

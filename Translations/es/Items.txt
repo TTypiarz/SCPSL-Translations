@@ -6,7 +6,7 @@
 5~Tarjeta de Soldado raso del DM
 6~Tarjeta de Ingeniero de Contención
 7~Tarjeta de Sargento del DM
-8~Tarjeta de Capitan del DM
+8~Tarjeta de Capitán del DM
 9~Tarjeta de Administrador
 10~Dispositivo de Acceso de los Insurgentes del Caos
 11~Tarjeta Nivel-O5
@@ -21,17 +21,17 @@
 21~Crossvec
 23~FSP-9
 24~Logicer
-25~Granada de fragmentación~¡Boom!
+25~Granada de alto explosivo~¡Boom!
 26~Granada cegadora~¡Ciega a tus enemigos!
 30~COM-18
-31~SCP-018~Súperbola capaz de rebotar con eficiencia extrema.
+31~SCP-018~Súper bola capaz de rebotar con eficiencia extrema.
 32~SCP-268~Equipada, te hace temporalmente invisible a no ser que se interrumpa por alguna acción del jugador.
 33~Adrenalina~Aumenta temporalmente la resistencia.
 34~Analgésicos~Cura heridas menores.
 35~Moneda~No estás seguro por qué quieres guardar esto...
 36~Armadura Ligera
-37~Armadura de combate
-38~Armadura pesada
+37~Armadura de Combate
+38~Armadura Pesada
 39~Revolver .44
 40~AK
 41~Escopeta

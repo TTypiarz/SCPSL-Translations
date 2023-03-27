@@ -72,7 +72,7 @@ Praktycznie niezniszczalny:Trzy generatory znajdują się w Strefie Wyższego Na
 Nielimitowany dostęp:Możesz kontrolować wiele systemów w placówce, pomagając innym podmiotom SCP. W prawym górnym rogu twojego ekranu wyświetlane są dostępne umiejętności. Każda z nich zużywa energię, która z czasem się regeneruje.
 Głębokie uczenie:Pomaganie podmiotom SCP jest wynagradzane w postaci doświadczenia, potrzebnego do uzyskania następnego poziomu dostępu. Każdy kolejny poziom zapewnia więcej energii oraz nowe umiejętności.
 Obserwacja:Będąc wszędzie i zarazem nigdzie posiadasz unikatową perspektywę całej placówki. Możesz zaznaczać lokacje, ludzi oraz obiekty zainteresowań, pomagając członkom drużyny w rzeźni.
-$SKANER WYŁOMÓW$ jest dostępny — wybierz drużyny/stefy na $mapie Placówki$ aby cyklicznie skanować w poszukiwaniu pozostałych ocalałych.
+$SKANER WYŁOMÓW$ jest dostępny — wybierz drużyny/strefy na $mapie Placówki$ aby cyklicznie skanować w poszukiwaniu pozostałych ocalałych.
 ZAWIESZONO REGENERACJE ENERGII
 ZMNIEJSZONO REGENERACJE ENERGII ([precentage])
 Blokada drzwi aktywna
@@ -82,7 +82,7 @@ SKANER WYŁOMÓW
 POWRÓT DO MAPY
 Skaner Wyłomów - [cnt] strefy
 WYBRANE STREFY: [cnt]
-WYBIERZ STREFY ABY JE ZESKANOWAĆ
+WYBIERZ STREFY, ABY JE ZESKANOWAĆ
 Wyniki skanowania: $Nie wykryto nieruchomych celów$.
 Ponawianie próby za [time] sekund...
 Wyniki skanowania: $[role]$ wykryto w ‘$[camera_name]$’ ([zone]).

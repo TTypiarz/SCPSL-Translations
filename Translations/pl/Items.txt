@@ -3,10 +3,10 @@
 2~Karta kierownika badań
 3~Karta zarządcy strefy
 4~Karta ochroniarza
-5~Karta szeregowego MTF
+5~Karta szeregowego MFO
 6~Karta technika zabezpieczeń
-7~Karta sierżanta MTF
-8~Karta kapitana MTF
+7~Karta sierżanta MFO
+8~Karta kapitana MFO
 9~Karta administratora placówki
 10~Urządzenie włamujące Rebelii Chaosu
 11~Karta Rady O5

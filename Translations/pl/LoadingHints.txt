@@ -3,7 +3,7 @@ Placówka posiada cztery strefy: Strefę Niższego Nadzoru, Strefę Wyższego Na
 Aby uciec, naukowcy i klasa D muszą się dostać na powierzchnię.
 W Strefie Wejściowej znajdują się dwie bramy, które prowadzą na powierzchnię. Do nich jest potrzebna karta dostępu.
 Użycie windy jest najlepszym sposobem na ucieczkę przed większością podmiotów SCP.
-Po ucieczce klasa D dołącza do Rebelii Chaosu, a naukowiec staje się MFO.
+Po ucieczce klasa D dołącza do Rebelii Chaosu, a naukowiec staje się MTF.
 Adrenalina może być użyta do odnowienia całej wytrzymałości oraz posiadania przewagi w walce.
 Radia mają cztery opcje zasięgu. Czym większy zasięg, tym szybciej bateria jest wyczerpywana.
 Mobilna Formacja Operacyjna oraz Rebelia Chaosu zjawiają się po obu przeciwnych stronach powierzchni.

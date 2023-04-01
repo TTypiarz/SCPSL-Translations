@@ -38,7 +38,7 @@ Różne
 -
 -
 Role
-Skrót  [key]
+Skrót [key]
 Odtwórz wybrany dźwięk (każdy go usłyszy)
 Zatrzymaj odtwarzanie
 Przeciągnij, aby obciąć nagranie

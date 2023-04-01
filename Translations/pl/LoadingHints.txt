@@ -27,7 +27,7 @@ Bronie Rebelii Chaosu są potężne, lecz amunicja do nich nie znajduje się w p
 Granat może być użyty do wyważenia drzwi.
 Granat może być lekko podrzucony poprzez użycie prawego przycisku myszy.
 Micro H.I.D jest w stanie prędko zneutralizować większość podmiotów SCP, lecz ma ograniczony zasób mocy. Użyj go mądrze!
-Micro H.I.D potrzebuje pięciu sekund aby w pełni przygotować się do wystrzału.
+Micro H.I.D potrzebuje pięciu sekund, aby w pełni przygotować się do wystrzału.
 Trzymanie prawego przycisku myszy przytrzyma Micro H.I.D w stanie gotowości, zużywając powoli jego zasób mocy.
 Micro H.I.D jest bardzo głośny podczas ładowania. Miej pewność, że twój cel nie zdąży uciec.
 Dźwięk ładowania Micro H.I.D jest w stanie wystraszyć i popsuć plan przeciwnikom.
@@ -40,28 +40,28 @@ SCP-018 jest ogromnie nieprzedywidalna. Gdy rzucona, warto znaleźć jakieś sch
 SCP-018 może być użyta do zatrzymania ścigającego gdy rzucona w korytarzu.
 SCP-330 może dać sześć unikalnych cukierków, z czego każdy ma swój własny efekt. Nie bierz więcej niż dwa!
 SCP-1853 pozwala na szybsze przeładowanie broni i zmniejsza odrzut broni podczas strzelania.
-SCP-2176 może zostać użyty do zablokowania oraz odblokowywania drzwi w danym pomieszczeniu, również odblokowywuje drzwi zablokowane przez SCP-079.
+SCP-2176 może zostać użyty do zablokowania oraz odblokowywania drzwi w danym pomieszczeniu. Odblokowywuje również drzwi zablokowane przez SCP-079.
 SCP-2176 może zostać użyty do oszołomienia SCP-079, jeśli zostanie użyty w pomieszczeniu, w którym on się znajduje.
-SCP-244 spowalnia prędkość z jaką można podnosić przedmioty i powstrzymuje SCP przed regeneracją swoich tarcz.
+SCP-244 zmniejsza prędkość, z jaką można podnosić przedmioty i powstrzymuje SCP przed regeneracją swoich tarcz.
 SCP-1576 pozwala żywym graczom na kontakt z obserwatorami przez krótki czas.
 SCP-914 może zmienić każdy przedmiot, doliczając w tym broń oraz amunicję.
 SCP-914 może naładować radia oraz Micro H.I.D.
-Za pomocą SCP-914 możesz wytworzyć wiele unikalnych przedmiotów, których nie można zdobyć nigdzie indziej. Zachęcamy do eksperymentowania!
+Za pomocą SCP-914 możesz wytworzyć wiele unikatowych przedmiotów, których nie można zdobyć nigdzie indziej. Zachęcamy do eksperymentowania!
 SCP-079 rozpoczyna będąc słabym, lecz z czasem staje się bardziej potężniejszy.
 SCP-079 może zablokować drzwi, gasić światła oraz aktywować wyładowania elektryczne na bramach tesli.
 Brama tesli staje się aktywna gdy SCP-079 zaczyna ją obserwować.
 SCP-079 może zostać zabezpieczony poprzez znalezienie generatorów w Strefie Wyższego Nadzoru oraz przycisku w jego celi przechowawczej.
 SCP-079 może zmieniać przybliżenie swoich kamer za pomocą kółka myszy.
 Im dłużej SCP-079 blokuje drzwi, tym więcej mocy będzie potrzebował, aby utrzymać je zablokowane.
-SCP-079 odblokowuje skaner wyłomów od czwartego poziomu. Jeżeli wykryje on w pomieszczeniu ukrywającego się człowieka, odpali się alarm.
+SCP-079 odblokowuje skaner wyłomów od czwartego poziomu. Jeżeli wykryje on w pomieszczeniu ukrywającego się człowieka, aktywuje się alarm.
 SCP-079 może aktywować Głowicę Alfa od piątego poziomu. Jest on w stanie przetrwać wybuch głowicy, jeśli to on sam aktywował procedurę detonacji placówki.
 Kamera używana przez SCP-079 zaświeci się na niebiesko. Miej się na baczności! Nigdy nie wiadomo, kiedy będzie obserwować.
 SCP-173 bez problemu może się poruszać w ciemnych pomieszczeniach, nawet gdy jest obserwowany. Warto przynieść latarkę!
 SCP-173 może w każdej chwili zabić od tyłu, gdy nie jest obserwowany.
 SCP-173 może stworzyć kałużę spowalniającą ludzi przechodzących przez nią, stając się bronią obszarową.
 SCP-106 może przechodzić przez drzwi oraz szyby.
-SCP-106 jest w stanie dostrzec osoby na niewielki zasięg, gdy używa swojej umiejętności prześladowania.
-SCP-106 może otworzyć mapę pobliskich pomieszczeń, do których może się teleportować (domyślnie pod "TAB")
+SCP-106 jest w stanie dostrzec osoby w pobliżu, gdy używa swojej umiejętności prześladowania.
+SCP-106 może otworzyć mapę pobliskich pomieszczeń, do których może się teleportować (domyślnie pod "TAB").
 Umiejętności SCP-106 zależą od zasobu znanego jako "wigor", który wyczerpuje się z każdym użyciem umiejętności.
 SCP-106 jest najbardziej wrażliwy na ataki podczas zaraz po wynurzeniu się z ziemi.
 SCP-096 jest najbardziej wrażliwy na ataki, gdy zaczyna się uspokajać.

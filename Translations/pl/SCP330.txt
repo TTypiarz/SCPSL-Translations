@@ -6,7 +6,7 @@ Przyznaje wiele mniejszych efektów, doliczając regenerację zdrowia, wzmocnien
 Przytłaczający zapach cytryny sprawia, że się krzywisz.
 Pozwala na szybsze poruszanie się i dłuższy bieg przez krótki okres czasu.
 Fioletowy cukierek
-Posiada soczysty zapach winogron. Zaczynasz się ślinić.
+Posiada soczysty zapach winogron. Patrząc na niego zaczynasz się ślinić.
 Przyznaje tymczasową odporność na obrażenia oraz powolną regenerację zdrowia.
 Czerwony cukierek
 Silny zapach wiśni wypełnia pomieszczenie. Jest troszkę <i>za mocny</i>.

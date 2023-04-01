@@ -72,23 +72,23 @@ Praktycznie niezniszczalny:Trzy generatory znajdują się w Strefie Wyższego Na
 Nielimitowany dostęp:Możesz kontrolować wiele systemów w placówce, pomagając innym podmiotom SCP. W prawym górnym rogu twojego ekranu wyświetlane są dostępne umiejętności. Każda z nich zużywa energię, która z czasem się regeneruje.
 Głębokie uczenie:Pomaganie podmiotom SCP jest wynagradzane w postaci doświadczenia, potrzebnego do uzyskania następnego poziomu dostępu. Każdy kolejny poziom zapewnia więcej energii oraz nowe umiejętności.
 Obserwacja:Będąc wszędzie i zarazem nigdzie posiadasz unikatową perspektywę całej placówki. Możesz zaznaczać lokacje, ludzi oraz obiekty zainteresowań, pomagając członkom drużyny w rzeźni.
-$SKANER WYŁOMÓW$ jest dostępny — wybierz drużyny/strefy na $mapie Placówki$, aby cyklicznie skanować w poszukiwaniu pozostałych ocalałych.
-ZAWIESZONO REGENERACJĘ ENERGII
-ZMNIEJSZONO REGENERACJĘ ENERGII ([precentage])
+$WYKRYWACZ WYŁOMÓW$ dostępny — wybierz drużyny/strefy na $mapie Placówki$, aby cyklicznie skanować w poszukiwaniu pozostałych ocalałych.
+WSTRZYMANO REGENERACJĘ ENERGII
+ZMNIEJSZONO REGENERACJĘ ENERGII O ([precentage])
 Blokada drzwi aktywna
 Głośnik w użyciu
 Trwa blokowanie pomieszczenia
-SKANER WYŁOMÓW
-POWRÓT DO MAPY
-Skaner Wyłomów - [cnt] strefy
+WYKRYWACZ WYŁOMÓW
+WRÓC DO MAPY
+Wykrywacz Wyłomów - [cnt] strefy
 WYBRANE STREFY: [cnt]
 WYBIERZ STREFY, ABY JE ZESKANOWAĆ
-Wyniki skanowania: $Nie wykryto nieruchomych celów$.
-Ponawianie próby za [time] sekund...
+Wyniki skanowania: $Brak wykrytych nieruchomych celów$.
+Następna próby za [time] sekund...
 Wyniki skanowania: $[role]$ wykryto w ‘$[camera_name]$’ ([zone]).
 NASTĘPNY SKAN: [time] s
 Skanowanie...
-SKANOWANIE ZAWIESZONE
+SKANOWANIE WSTRZYMANE
 WYBIERZ DRUŻYNY DO WYKRYCIA
-Skaner wyłomów wykrywa pozostałe cele, które przebywają przez dłuższy czas na tym samym obszarze.
+Wykrywacz wyłomów ukazuje pozostałe cele, które przebywają przez dłuższy czas na tym samym obszarze.
 Wybierz co najmniej jeden filtr, aby kontynuować!

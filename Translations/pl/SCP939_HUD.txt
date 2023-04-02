@@ -39,7 +39,7 @@ Różne
 -
 Role
 Skrót [key]
-Odtwórz wybrany dźwięk (każdy go usłyszy)
+Odtwórz wybrany dźwięk (usłyszy go każdy)
 Zatrzymaj odtwarzanie
 Przeciągnij, aby przyciąć nagranie
 Zaznacz ulubione. Nagrania oznaczone jako ulubione zostaną przypisane do skrótów.

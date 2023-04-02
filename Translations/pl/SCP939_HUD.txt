@@ -2,7 +2,7 @@ Naciśnij [key_attack] lub [key_jump], aby wyskoczyć.
 Odsłuchaj głos (tylko ty to usłyszysz)
 -
 Usuń głos (przytrzymaj)
-Odtwórz głos (każdy go usłyszy)
+Odtwórz głos (usłyszy go każdy)
 Zostałeś zabity przez SCP-939, który ukradł ci twój głos!
 Jeżeli nie chcesz, aby twój głos był przez niego używany, możesz wyłączyć tą funkcję.
 Zapamiętaj mój wybór
@@ -42,5 +42,5 @@ Skrót [key]
 Odtwórz wybrany dźwięk (każdy go usłyszy)
 Zatrzymaj odtwarzanie
 Przeciągnij, aby przyciąć nagranie
-Zaznacz ulubione. Nagrania oznaczone jako ulubione przypisywane są do skrótów.
+Zaznacz ulubione. Nagrania oznaczone jako ulubione zostaną przypisane do skrótów.
 Przeciągnij, aby uporządkować nagrania

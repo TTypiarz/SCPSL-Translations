@@ -1,7 +1,7 @@
 Możesz rozbroić gracza poprzez interakcję z nim podczas trzymania broni palnej.
 Placówka posiada cztery strefy: Strefę Niższego Nadzoru, Strefę Wyższego Nadzoru, Strefę Wejściową oraz powierzchnię.
 Aby uciec, naukowcy i klasa D muszą się dostać na powierzchnię.
-Ochroniarze są kiepscy w pojedynkę, ale są mocniejsi w grupie. W grupie siła!
+Ochroniarze są kiepscy w pojedynkę, jednak razem są mocniejsi. W grupie siła!
 Twoja wytrzymałość jest cennym zasobem, zachowaj jej trochę na sytuacje awaryjne!
 W Strefie Wejściowej znajdują się dwie bramy, które prowadzą na powierzchnię. Do nich jest potrzebna karta dostępu.
 Użycie windy jest najlepszym sposobem na ucieczkę przed większością podmiotów SCP.

@@ -74,7 +74,7 @@ Głębokie uczenie:Pomaganie podmiotom SCP jest wynagradzane w postaci doświadc
 Obserwacja:Będąc wszędzie i zarazem nigdzie posiadasz unikatową perspektywę całej placówki. Możesz zaznaczać lokacje, ludzi oraz obiekty zainteresowań, pomagając członkom drużyny w rzeźni.
 $WYKRYWACZ WYŁOMÓW$ dostępny — wybierz drużyny/strefy na $mapie Placówki$, aby cyklicznie skanować w poszukiwaniu pozostałych ocalałych.
 WSTRZYMANO REGENERACJĘ ENERGII
-ZMNIEJSZONO REGENERACJĘ ENERGII ([precentage])
+ZMNIEJSZONO REGENERACJĘ ENERGII O [precentage]
 Blokada drzwi aktywna
 Głośnik w użyciu
 Trwa blokowanie pomieszczenia

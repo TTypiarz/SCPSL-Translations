@@ -1,7 +1,7 @@
 Łączenie
 Nawiązywanie połączenia...
-Restartowanie rundy
-Runda jest restartowana...
+Wznawianie rundy
+Runda jest wznawiana..
 Łączenie
 Ładowanie poziomu...
 Łączenie

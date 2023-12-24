@@ -1,6 +1,6 @@
-Mobilna Formacja Operacyjna Epsilon-11 oznaczona [designation] wkroczyła do placówki.<split>Cały pozostały personel jest proszony o postępowanie wraz ze standardowymi protokołami bezpieczeństwa, dopóki oddział MTF dotrze do waszego miejsca.<split>
-Pozostało do zabezpieczenia: [count] podmiotów SCP.
-Pozostał do zabezpieczenia: 1 podmiot SCP.
+Świąteczna Jednostka Taktyczna Epsilon-11 oznaczona [designation] wkroczyła do pracowni.<split>Wszystkie pozostałe elfy są proszone o znalezienie schronienia w najbliższym domku z piernika na czas doświąteczniania placówki.<split>
+Pozostało do zabezpieczenia: [count] psujzabaw nienawidzących świąt.
+Pozostał do zabezpieczenia: 1 psujzabawa nienawidząca święta.
 Poważne zagrożenie wciąż istnieje w placówce, proszę zachować ostrożność.
 pomyślnie zneutralizowany, przyczyna nieznana.
 zneutralizowany przez SCP-[scp].
@@ -25,3 +25,4 @@ Strefa Niższego Nadzoru została zablokowana i przygotowana na dekontaminację.
 PROCES DETONACJI GŁOWICY ALFA ZOSTAŁ ROZPOCZĘTY.<split>PODZIEMNA SEKCJA PLACÓWKI ZOSTANIE ZDETONOWANA W CIĄGU [time] SEKUND.
 DETONACJA WSTRZYMANA. RESTARTOWANIE SYSTEMÓW.
 DETONACJA WZNOWIONA, POZOSTAŁO [time] SEKUND.
+zlikwidowany przez Piankowego Marynarzyka.

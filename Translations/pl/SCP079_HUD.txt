@@ -4,7 +4,7 @@ EXP [current] / [next]
 MAKSYMALNY POZIOM
 BRAK KAMERY
 IDŹ DO: [camera] ([cost])
-BRAK WYSTARCZAJĄCEJ ENERGII
+BRAK POTRZEBNEJ ENERGII
 ZA: [time] sekund
 WYMAGANY WYŻSZY POZIOM
 NIEPOPRAWNA KAMERA
@@ -16,7 +16,7 @@ ODBLOKUJ DRZWI
 TRWA ODNAWIANIE BLOKADY DRZWI
 ENERGIA
 JESTEŚ ATAKOWANY!
-ODBLOKUJ WSZYSTKIE DRZWI (wszystkie [num])
+WZNIEŚ BLOKADĘ
 OTWÓRZ MAPĘ PLACÓWKI
 ZAMKNIJ
 STREFA NIŻSZEGO NADZORU
@@ -41,20 +41,16 @@ TRWA ODNAWIANIE AKTYWACJI BRAMY TESLI
 $Poziom dostępu [tier]$ - ODBLOKOWANY
 Limit $ENERGII$ zwiększony do $[limit]$.
 $GASZENIE ŚWIATEŁ$ jest dostępne - naciśnij $[key]$, aby zgasić światła w pomieszczeniu.
-Limit $ZGASZONYCH ŚWIATŁEŁ$ zwiększony do $[number]$ pomieszczeń.
+Limit $ZGASZONYCH ŚWIATEŁ$ zwiększony do $[number]$ pomieszczeń.
 $BLOKOWANIE POMIESZCZEŃ$ jest dostępne - naciśnij $[key]$, aby zablokować wszystkie drzwi w pomieszczeniu.
 +[amount] EXP - Komenda administratora
-+[amount] EXP - Pomoc w zabiciu personelu klasy D
-+[amount] EXP - Pomoc w zabiciu naukowca
-+[amount] EXP - Pomoc w zabiciu ochroniarza
-+[amount] EXP - Pomoc w zabiciu Nine-Tailed Fox
-+[amount] EXP - Pomoc w zabiciu rebelii chaosu
-+[amount] EXP - Pomoc w zabiciu człowieka
-+[amount] EXP - Uświadczenie zabicia przez członka twojej drużyny
++[amount] EXP - Pomoc w zabiciu [role]
++[amount] EXP - Zabicie [role]
++[amount] EXP - Świadek zabicia [role] przez członka drużyny
 +[amount] EXP - Pomoc w pościgu członka twojej drużyny
 +[amount] EXP - Obronienie członka twojej drużyny
 +[amount] EXP - Zapobiegnięcie użycia Micro H.I.D.
-KAMERA ONLINE
+BLOKADA DRZWI JEST JUŻ AKTYWOWANA
 ZGAŚ ŚWIATŁA W CAŁEJ STREFIE ([cost])
 $GASZENIE ŚWIATEŁ W CAŁEJ STREFIE$ jest dostępne - przycisk znajduje się obok jej nazwy na $mapie placówki$.
 TRWA ODNAWIANIE GASZENIA ŚWIATEŁ W CAŁEJ STREFIE
@@ -71,24 +67,24 @@ SCP-079 nie ma możliwości bezpośredniej walki lub ruchu. Zamiast tego widzisz
 Praktycznie niezniszczalny:Trzy generatory znajdują się w Strefie Wyższego Nadzoru. Gdy zostaną aktywowane, będziesz mógł zostać zabezpieczony w swojej celi przechowawczej. Każdy generator ma sekwencję odliczania, która może zostać przerwana poprzez kliknięcie przycisku "ANULUJ" na generatorze.
 Nielimitowany dostęp:Możesz kontrolować wiele systemów w placówce, pomagając innym podmiotom SCP. W prawym górnym rogu twojego ekranu wyświetlane są dostępne umiejętności. Każda z nich zużywa energię, która z czasem się regeneruje.
 Głębokie uczenie:Pomaganie podmiotom SCP jest wynagradzane w postaci doświadczenia, potrzebnego do uzyskania następnego poziomu dostępu. Każdy kolejny poziom zapewnia więcej energii oraz nowe umiejętności.
-Obserwacja:Będąc wszędzie i zarazem nigdzie posiadasz unikatową perspektywę całej placówki. Możesz zaznaczać lokacje, ludzi oraz obiekty zainteresowań, pomagając członkom drużyny w rzeźni.
-$SKANER WYŁOMÓW$ jest dostępny — wybierz drużyny/strefy na $mapie Placówki$, aby cyklicznie skanować w poszukiwaniu pozostałych ocalałych.
-ZAWIESZONO REGENERACJĘ ENERGII
-ZMNIEJSZONO REGENERACJĘ ENERGII ([precentage])
+Obserwacja:Będąc wszędzie i zarazem nigdzie, posiadasz unikatową perspektywę całej placówki. Możesz zaznaczać lokacje, ludzi oraz obiekty zainteresowań, pomagając członkom drużyny w dokonywaniu rzeźni.
+$WYKRYWACZ WYŁOMÓW$ dostępny — wybierz drużyny/strefy na $mapie Placówki$, aby cyklicznie skanować w poszukiwaniu pozostałych ocalałych.
+WSTRZYMANO REGENERACJĘ ENERGII
+ZMNIEJSZONO REGENERACJĘ ENERGII O [precentage]
 Blokada drzwi aktywna
 Głośnik w użyciu
 Trwa blokowanie pomieszczenia
-SKANER WYŁOMÓW
-POWRÓT DO MAPY
-Skaner Wyłomów - [cnt] strefy
+WYKRYWACZ WYŁOMÓW
+WRÓC DO MAPY
+Wykrywacz Wyłomów - [cnt] strefy
 WYBRANE STREFY: [cnt]
 WYBIERZ STREFY, ABY JE ZESKANOWAĆ
-Wyniki skanowania: $Nie wykryto nieruchomych celów$.
-Ponawianie próby za [time] sekund...
+Wyniki skanowania: $Brak wykrytych nieruchomych celów$.
+Następna próby za [time] sekund...
 Wyniki skanowania: $[role]$ wykryto w ‘$[camera_name]$’ ([zone]).
 NASTĘPNY SKAN: [time] s
 Skanowanie...
-SKANOWANIE ZAWIESZONE
+SKANOWANIE WSTRZYMANE
 WYBIERZ DRUŻYNY DO WYKRYCIA
-Skaner wyłomów wykrywa pozostałe cele, które przebywają przez dłuższy czas na tym samym obszarze.
+Wykrywacz wyłomów ukazuje pozostałe cele, które przebywają przez dłuższy czas na tym samym obszarze.
 Wybierz co najmniej jeden filtr, aby kontynuować!

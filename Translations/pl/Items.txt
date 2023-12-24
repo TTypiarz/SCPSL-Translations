@@ -3,20 +3,20 @@
 2~Karta kierownika badań
 3~Karta zarządcy strefy
 4~Karta ochroniarza
-5~Karta szeregowego MTF
+5~Karta szeregowego MFO
 6~Karta technika zabezpieczeń
-7~Karta sierżanta MTF
-8~Karta kapitana MTF
+7~Karta operacyjna MFO
+8~Karta kapitana MFO
 9~Karta administratora placówki
 10~Urządzenie włamujące Rebelii Chaosu
 11~Karta Rady O5
 12~Radio
 13~COM-15
-14~Apteczka~Pozwala opatrzyć rany.
+14~Apteczka~Do opatrywania ran.
 15~Latarka~"Niech się stanie światłość!".
 16~Micro H.I.D.~Mobilny miotacz wyładowań o wysokim napięciu.
 17~SCP-500~Panaceum.
-18~SCP-207~Szkodliwie zwiększa twą prędkość.
+18~SCP-207~Zwiększa twoją prędkość kosztem zdrowia.
 20~MTF-E11-SR
 21~Crossvec
 23~FSP-9
@@ -24,11 +24,11 @@
 25~Granat zaczepny~Boom!
 26~Granat błyskowy~Oślepia przeciwnika.
 30~COM-18
-31~SCP-018~Piłka, która odbijając się zwiększa swą prędkość.
+31~SCP-018~Piłka, która rozpędza się z każdym odbiciem.
 32~SCP-268~Po jej założeniu staniesz się tymczasowo niewidzialny.\nInterakcja z czymkolwiek przerywa ten efekt.
 33~Adrenalina~Tymczasowo zwiększa wytrzymałość.
-34~Leki Przeciwbólowe~Łagodzą drobne obrażenia.
-35~Moneta~Nie masz pewności do czego byłaby ci ona potrzebna...
+34~Leki Przeciwbólowe~Łagodzą ból drobnych obrażeń.
+35~Moneta~Nie masz pewności, do czego byłaby ci ona potrzebna...
 36~Lekki pancerz
 37~Pancerz bojowy
 38~Ciężki pancerz
@@ -42,3 +42,13 @@
 46~SCP-1853~Poprawia umięjętność obsługi broni.
 47~Rozpraszacz cząstek 3-X
 48~COM-45
+49~SCP-1576~Porozmawiaj ze zmarłymi.
+50~Jailbird~Co?!
+51~SCP-207?~Dzień przeciwieństwa?
+52~FR-MG-0
+53~A7
+54~Latarnia~Klasyczna lamp naftowa z wygrawerowanym imieniem "Daniel".
+55~Śnieżka
+56~Węgiel
+57~Węgiel?
+58~Odtwarzacz Kaset?~Zawiera nieopisaną kasetę. Proszę, nie odtwarzaj jej. Proszę.

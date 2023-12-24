@@ -1,1 +1,1 @@
-Promień widoczny dla innych graczy
+Laser jest widoczny dla innych graczy

@@ -1,0 +1,15 @@
+Tryb wyświetlania IP serwera
+Język
+Nie wszystko zostanie zmieione.\n.Zalecane jest ponowne uruchomienie gry.
+Ładowanie...
+Napisy
+Tryb paska zdrowia
+Liczba punktów
+Procent
+Czas trwania opisu
+Normalny
+Szybki
+Kontroluje czas trwania pełnoekranowego tekstu opisującego twoją rolę na początku rundy.
+Ukryty
+Ukrywa adres IP serwera na elemetach interfejsu.
+Podświetli ikonę gry przy odrodzeniu

@@ -1,18 +1,18 @@
-Dyrektor Generalny Northwood
-Dyrektor Bezpieczeństwa Northwood
-Dyrektor ds. Operacyjnych Northwood
+Dyrektor Naczelny Northwood
+Dyrektor ds. Informacji Northwood
+Dyrektor Operacji Northwood
 Dyrektor Społeczności Northwood
 Kierownik Discorda Northwood
 Asystent Wykonawczy Northwood
 Kierownik Opinii Publicznej Northwood
-Pracownik Działu Kadr Northwood
+Personel Działu Kadr Northwood
 Dyrektor Działu Kadr Northwood
 Kierownik Marketingu Northwood
 Personel Northwood
 Kierownik Platformy Steam Northwood
 Administrator Systemów Northwood
 Kierownik Wiki Northwood
-Dyrektor Artystyczny SCP:SL
+Kierownik Artystyczny SCP:SL
 Nadzorca Artystyczny SCP:SL
 Projektant Graficzny SCP:SL
 Programista Zaplecza Technicznego SCP:SL
@@ -28,34 +28,39 @@ Główny Projektant Rozgrywki SCP:SL
 Główny Programista Rozgrywki SCP:SL
 Projektant Poziomów SCP:SL
 Partner SCP:SL
-Wspierający SCP:SL na Patreon
+Sponsor SCP:SL na Patreon
 Kierownik Kontroli Jakości SCP:SL
 Projektant Dźwięku SCP:SL
 Główny Dyrektor Rozwoju SCP:SL
 Kierownik Serwerów Oficjalnych SCP:SL
-Pracownik Działu Weryfikacji Northwood
+Personel Weryfikacji Northwood
 Specjalista ds. Zabezpieczeń SCP:SL
 Kontroler Jakości SCP:SL
 Nadzorca Kontroli Jakości SCP:SL
 Subskrybent SCP:SL na Twitch
 Kierownik Dźwięku SCP:SL
-Pracownik Działu Opinii Publicznej Northwood
-Nadzorca Działu Weryfikacji Northwood
+Personel Opinii Publicznej Northwood
+Nadzorca Weryfikacji Northwood
 Nadzorca Serwerów Oficjalnych SCP:SL
-Nadzorca Działu Opinii Publicznej Northwood
-Kierownik Działu Weryfikacji Northwood
-Kierownik Działu Rozwoju Botów Northwood
-Kierownik Działu Tłumaczeń Northwood
-Kierownik Działu Projektowania Rozgrywki SCP:SL
+Nadzorca Opinii Publicznej Northwood
+Kierownik Weryfikacji Northwood
+Kierownik Rozwoju Botów Northwood
+Kierownik Tłumaczeń Northwood
+Kierownik Projektowania Rozgrywki SCP:SL
 Projektant Animacji SCP:SL
-Dyrektor Relacji Publicznych Northwood
+Dyrektor Działu Relacji Publicznych Northwood
 Pomocnik Społeczności SCP:SL
 Aktor Głosowy SCP:SL
 Inwestor Fundacji SCP:SL
-Dyrektor Northwood
+Dyrektor Northwood Studio
 Asystent Głównego Dyrektora Rozwoju SCP:SL
-Nadzorca Działu Pomocy Technicznej Northwood
-Kierownik Działu Pomocy Technicznej Northwood
+Nadzorca Pomocy Technicznej Northwood
+Kierownik Pomocy Technicznej Northwood
 Kierownik Administracji Systemów Northwood
 Projektant Narracji SCP:SL
 Nadzorca Marketingu Northwood
+Kierownik Techniczny Audio SCP:SL
+Koordynator Tłumaczeń Northwood
+Dyrektor Bezpieczeństwa Northwood
+Konsultant ds. Bezpieczeństwa Northwood
+Asystent Dyrektora ds. Bezpieczeństwa Northwood

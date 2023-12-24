@@ -6,7 +6,7 @@ NA PODSTAWIE <i>SCP: CONTAINMENT BREACH</i>
 POWRÓT
 JĘZYK
 ANTYALIASING
-Objaśnienia detali:\n-LICZBA ŚWIATEŁ - maksymalna liczba źródeł światła, które są renderowane na poszczególnych pikselach.\n-V-Sync - synchronizuje ilość FPS do częstotliwości monitora.
+Objaśnienia detali:\n-LICZBA ŚWIATEŁ - maksymalna liczba źródeł światła, które są renderowane na poszczególnych pikselach.\n-V-Sync - synchronizuje ilość FPS z częstotliwością monitora.
 DOŁĄCZ DO GRY
 POST\nPROCESSING
 AUTORZY
@@ -14,7 +14,7 @@ WYJDŹ
 Tryb pełnoekranowy
 USTAWIENIA EKRANU
 KOREKCJA KOLORÓW
-Wpisz adres IP...
+Wprowadź adres IP...
 ROZDZIELCZOŚĆ
 GRAJ
 LICZBA ŚWIATEŁ
@@ -22,7 +22,7 @@ TYP CIENI
 CIENIE
 STWÓRZ GRĘ
 Zmień ustawienia post-processingu. Nie wpływają one na wydajność. Zalecane jest pozostawienie domyślnych ustawień.
-Tryb renderowania świateł:\nGdy wyłączone - pogarsza znacznie wygląd gry. Zalecane jest wyłączenie tej opcji tylko w przypadku, gdy posiadasz słaby sprzęt
+Tryb renderowania świateł:\nGdy wyłączone - pogarsza znacznie wygląd gry. Zalecane jest wyłączenie tej opcji tylko w przypadku słabego sprzętu.
 V-SYNC
 POŁĄCZ
 USTAWIENIA JAKOŚCI
@@ -45,19 +45,19 @@ ZNAJDŹ GRĘ
 Używamy Discorda jako forum. Instalacja nie jest wymagana.\n(kliknij na logo poniżej, aby dołączyć)
 Domyślnie serwer uruchomi się w sieci lokalnej.\nTwoi znajomi będą potrzebowali Twojego IP, aby dołączyć.\nJeśli chcesz stworzyć serwer publiczny, otwórz LocalAdmin.exe i postępuj zgodnie z instrukcjami.\nJeżeli masz wątpliwości, zapytaj naszą pomoc techniczną (link w menu głównym)
 1. Podstawy
-Prezentowana gra to otwarta beta.\nMożesz doświadczyć wielu błędów.\nAktualny stan nie świadczy o wersji finalnej.
+Prezentowana gra to otwarta beta.\nMożesz napotkać wiele błędów.\nAktualny stan nie świadczy o wersji finalnej.
 4. (więcej poradników później)
 POŁĄCZ BEZPOŚREDNIO
 POMOC TECHNICZNA / FORUM
 GŁOŚNOŚĆ DŹWIĘKU
-Wpisz adres IP wybranego hosta.
+Wprowadź adres IP wybranego hosta.
 POBIERANIE LISTY
 BRAK AKTYWNYCH SERWERÓW
 WCIŚNIJ ESC ABY ANULOWAĆ/ZAMKNĄĆ
 STEROWANIE
 MAKSYMALNA ILOŚĆ KRWI
-Limitowanie FPS
-Limitowanie FPS nie działa, gdy V-SYNC ON!
+Limit FPS
+Ograniczanie FPS nie działa przy włączonym V-SYNC!
 Przywróć domyślne
 Używamy sekcji "Dyskusje" na Steam jako forum. (Kliknij na logo poniżej, by otworzyć)
 USTAWIENIA DŹWIĘKU

@@ -4,5 +4,5 @@ Ruch
 Skróty klawiszowe
 Komunikacja
 System
-Niezmienialne
+Nieprzypisywalne
 SCP-079

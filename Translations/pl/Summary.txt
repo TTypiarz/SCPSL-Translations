@@ -3,7 +3,7 @@ SCP WYGRYWA
 FUNDACJA WYGRYWA
 REBELIA WYGRYWA
 SYTUACJA PATOWA
-Uciekłe podmioty opanowały całą placówkę. Zarządzanie kryzysowe zostało zainicjowane.
+Zbiegłe podmioty opanowały całą placówkę. Zarządzanie kryzysowe zostało zainicjowane.
 Zneutralizowano zagrożenie. Ośrodek 02 jest ponownie bezpieczny.
 Cały personel fundacji został zgładzony. Żołnierze oczekują dalszych rozkazów.
 Ośrodek 02 jest pod niepewną kontrolą. Zwycięzca zostaje nieokreślony.
@@ -15,3 +15,5 @@ Misja zajęła [summary_round_minutes] minut i [summary_round_seconds] sekund.
 [summary_scp_terminated] unieszkodliwionych podmiotów SCP.
 Następna runda rozpocznie się za [summary_next_round_countdown] sekund.
 Podmioty SCP zabiły [summary_scpfrags] ludzi.
+FLAMINGI WYGRYWAJĄ
+Wszystkie inne zespoły zostały unicestwione. Całkowite zwycięstwo flamingów zostało osiągnięte.

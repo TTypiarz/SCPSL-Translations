@@ -13,8 +13,8 @@ Ruch w lewo
 Ruch w prawo
 Lista graczy
 Informacje o postaci
-Remote Admin
-Latarka
+Panel admina
+Przełącz latarkę
 Drugi czat głosowy
 Noclip
 Konsola gry
@@ -26,7 +26,7 @@ Skrót na broń pierwszą
 Skrót na broń drugą
 Skrót na przedmioty medyczne
 Schowaj interfejs
-Przełącz mgłę w noclipie
+Przełącz mgłę w noclip
 Skrót na granat
 Menu pauzy
 Dziennik debugowania
@@ -36,3 +36,4 @@ Odblokuj wszystko
 Zgaś światła
 Zablokuj pomieszczenie
 Zaznacz lokację
+Wykrywacz wyłomów

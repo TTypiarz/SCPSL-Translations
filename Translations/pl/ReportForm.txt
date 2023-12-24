@@ -1,5 +1,5 @@
 Zgłoś gracza
-Gracz:\nID Gracza:\n\nOpis:
+Gracz:\nID Gracza:\nOpis:
 Anuluj
 Łamanie regulaminu serwera
 Oszukiwanie lub atak na serwer
